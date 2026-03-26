@@ -1,4 +1,4 @@
-📊 customer-revenue-insights-dashboard
+📊 Customer & Revenue Insights Dashboard
 
 
 🔹 Dashboard Preview dashboard

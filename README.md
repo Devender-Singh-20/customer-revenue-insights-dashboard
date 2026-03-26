@@ -1,4 +1,5 @@
-📊 Sales & Profit Analysis Dashboard
+📊 customer-revenue-insights-dashboard
+
 
 🔹 Dashboard Preview dashboard
 ![dashboard](images/dashboard_preview.jpg)
